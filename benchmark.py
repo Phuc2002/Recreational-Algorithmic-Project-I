@@ -1,5 +1,4 @@
-import solve
-import rubik
+from rubik import rubik, solve
 import random
 import time
 
