@@ -1,4 +1,4 @@
-# Compose music by solving a Pocket cube
+Compose music by solving a Pocket cube
 
 Use BFS and later optimize by using bidirectional BFS to solve a 2x2x2 Rubik's cube. By carefully assigning certain notes to each cubies' faces, you can compose harmonious melody as you solve the cube. This can be done through analysis between group theory in abstract math and music theory. TED-ed has an awesome video explaining the idea of the project (although it's not exactly the same idea...) - https://www.youtube.com/watch?v=FW2Hvs5WaRY 
 
