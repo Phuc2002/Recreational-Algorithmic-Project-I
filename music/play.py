@@ -1,4 +1,4 @@
-from music import *
+from music.music import *
 from pygame.mixer import Channel
 import time
 
