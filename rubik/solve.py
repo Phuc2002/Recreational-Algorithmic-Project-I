@@ -1,5 +1,5 @@
-import rubik
-from myqueue import *
+from rubik import rubik
+from rubik.myqueue import *
 
 def get_path(parent, end):
     if end not in parent:
