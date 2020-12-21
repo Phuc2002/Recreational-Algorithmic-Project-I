@@ -1,6 +1,5 @@
-import rubik
-import solve
-import play
+from rubik import rubik, solve
+from music import play
 import random
 import time
 
